@@ -4,7 +4,7 @@
 
 A blog.
 
-### 👉 [LIVE DEMO](https://almost-insta.vercel.app/)
+### 👉 [LIVE DEMO](https://next-blog-omega-smoky.vercel.app/)
 
 #### 🛠️ Built with
 
